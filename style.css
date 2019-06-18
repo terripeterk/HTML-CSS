@@ -1,0 +1,44 @@
+h1 {
+	font-family: "Freestyle Script", fantasy;
+	color: #000000;
+	font-size: 85px;
+	text-shadow: 5px 10px 2px #C60063,
+	  -3px 6px 5px #FF93C9;
+}
+
+h2 {
+	color: #C60063;
+	font-size: 30px;
+	font-family: Gabriola, fantasy;
+	text-shadow: 5px 7px 4px #FFB7FF;
+}
+
+h3 {
+	font-family: Gabriola, fantasy;
+	font-size: 30px;
+}
+
+div {
+	color: black;
+}
+
+table {
+	font-family: "Maiandra GD", fantasy;
+	border-color: #C60063;
+	background-color: #FFFFFF;
+}
+
+a:hover {
+  color: #C60063;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+body {
+	border: 15px solid white;
+	padding: 20px;
+	background:-webkit-linear-gradient(bottom, #D0B59D, #F7F2EE);
+	background-clip: padding-box;
+}
